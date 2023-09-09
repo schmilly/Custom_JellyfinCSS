@@ -367,15 +367,15 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 
 /* 2.2.2 Logos */
 /* Login Page */
-.imgLogoIcon {
+/*.imgLogoIcon {
   content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
 
 /* Main Drawer Mobile */
-.adminDrawerLogo img {
+/* .adminDrawerLogo img {
   content: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
 
 /* Home Page */
-.pageTitleWithLogo {
+/* .pageTitleWithLogo {
   background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/RED/logo.png) !important; }
 
 /* 2.2.3 Others	*/
